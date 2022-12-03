@@ -4,4 +4,6 @@ This project has guided me through Terraform basics as I utilized Visual Studio 
 
 Given Below Is my Architecture Diagram for this project
 
-![1670097954867](image/readme/1670097954867.png)
+
+![image](https://user-images.githubusercontent.com/76660222/205460007-1645576a-57e8-40ee-b310-6ae33be287f5.png)
+
